@@ -1,1 +1,1 @@
-# Test
+# First POS system
